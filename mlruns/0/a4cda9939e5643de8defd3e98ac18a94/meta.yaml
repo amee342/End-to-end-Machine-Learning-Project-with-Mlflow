@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ameetran/End-to-end-Machine-Learning-Project-with-Mlflow/mlruns/0/a4cda9939e5643de8defd3e98ac18a94/artifacts
+end_time: 1721233546810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4cda9939e5643de8defd3e98ac18a94
+run_name: big-wasp-582
+run_uuid: a4cda9939e5643de8defd3e98ac18a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721233545338
+status: 3
+tags: []
+user_id: ameetran

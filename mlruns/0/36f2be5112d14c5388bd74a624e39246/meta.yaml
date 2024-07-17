@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ameetran/End-to-end-Machine-Learning-Project-with-Mlflow/mlruns/0/36f2be5112d14c5388bd74a624e39246/artifacts
+end_time: 1721233024981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36f2be5112d14c5388bd74a624e39246
+run_name: dapper-midge-573
+run_uuid: 36f2be5112d14c5388bd74a624e39246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721233023273
+status: 3
+tags: []
+user_id: ameetran

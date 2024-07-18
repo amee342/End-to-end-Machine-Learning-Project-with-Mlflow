@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ameetran/End-to-end-Machine-Learning-Project-with-Mlflow/mlruns/0/b08a6808da414ea884e2760be9989869/artifacts
+end_time: 1721312022649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b08a6808da414ea884e2760be9989869
+run_name: placid-smelt-360
+run_uuid: b08a6808da414ea884e2760be9989869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721312020691
+status: 3
+tags: []
+user_id: ameetran

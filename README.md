@@ -11,3 +11,6 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the app.py
+
+## 3. Create ECR repo to store/save docker images
+    - Save the URI: 730335379679.dkr.ecr.eu-north-1.amazonaws.com/wine-quality
